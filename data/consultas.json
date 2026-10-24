@@ -1,0 +1,45 @@
+[
+  {
+    "pregunta": "¿Qué contiene la matriz de marco lógico?",
+    "respuesta": "La Matriz de Marco Lógico resume el proyecto en cuatro niveles: fin, propósito, componentes y actividades.",
+    "fuentes": [
+      {
+        "id": "marco-logico",
+        "titulo": "Matriz de Marco Lógico",
+        "score": 0.5519
+      },
+      {
+        "id": "riesgos",
+        "titulo": "Gestión de riesgos",
+        "score": 0.0536
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cómo se estima el presupuesto y la financiación?",
+    "respuesta": "El presupuesto de un proyecto se estima separando costos directos e indirectos, y añadiendo una contingencia para imprevistos.",
+    "fuentes": [
+      {
+        "id": "presupuesto",
+        "titulo": "Presupuesto y financiación",
+        "score": 0.5103
+      }
+    ]
+  },
+  {
+    "pregunta": "¿Cómo se gestionan los riesgos del proyecto?",
+    "respuesta": "La gestión de riesgos identifica los eventos que pueden afectar al proyecto y los clasifica por probabilidad e impacto en una matriz de riesgos.",
+    "fuentes": [
+      {
+        "id": "riesgos",
+        "titulo": "Gestión de riesgos",
+        "score": 0.3031
+      },
+      {
+        "id": "marco-logico",
+        "titulo": "Matriz de Marco Lógico",
+        "score": 0.0828
+      }
+    ]
+  }
+]

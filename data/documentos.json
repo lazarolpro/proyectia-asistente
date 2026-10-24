@@ -1,0 +1,32 @@
+[
+  {
+    "id": "formulacion",
+    "titulo": "Formulación de proyectos",
+    "texto": "La formulación de un proyecto parte de identificar el problema central y analizarlo con el árbol de problemas, que relaciona causas y efectos. Del árbol de problemas se deriva el árbol de objetivos, que convierte cada causa en un medio y cada efecto en un fin. La formulación define el objetivo general, los objetivos específicos, los beneficiarios y el alcance del proyecto antes de comprometer recursos."
+  },
+  {
+    "id": "marco-logico",
+    "titulo": "Matriz de Marco Lógico",
+    "texto": "La Matriz de Marco Lógico resume el proyecto en cuatro niveles: fin, propósito, componentes y actividades. Para cada nivel se definen indicadores verificables, medios de verificación y supuestos o riesgos externos. La matriz de marco lógico permite comprobar la coherencia vertical entre lo que se hace y el resultado que se espera, y es la base del seguimiento y la evaluación."
+  },
+  {
+    "id": "presupuesto",
+    "titulo": "Presupuesto y financiación",
+    "texto": "El presupuesto de un proyecto se estima separando costos directos e indirectos, y añadiendo una contingencia para imprevistos. Se distingue entre inversión inicial y costos recurrentes de operación. La financiación puede ser propia, por donación o por crédito, y se refleja en un flujo de caja que muestra cuándo entra y sale el dinero. Un presupuesto realista es condición para que el proyecto sea sostenible en el tiempo."
+  },
+  {
+    "id": "riesgos",
+    "titulo": "Gestión de riesgos",
+    "texto": "La gestión de riesgos identifica los eventos que pueden afectar al proyecto y los clasifica por probabilidad e impacto en una matriz de riesgos. Para cada riesgo se define una respuesta: evitar, mitigar, transferir o aceptar. Los riesgos de mayor severidad se vigilan con planes de contingencia y con indicadores tempranos de alerta."
+  },
+  {
+    "id": "seguimiento",
+    "titulo": "Seguimiento y evaluación",
+    "texto": "El seguimiento compara el avance real con la línea base mediante indicadores y metas. Los informes de avance documentan el progreso, los desvíos y las medidas correctivas. La evaluación final mide resultados e impacto, y las lecciones aprendidas alimentan la formulación de proyectos futuros."
+  },
+  {
+    "id": "sostenibilidad",
+    "titulo": "Sostenibilidad del proyecto",
+    "texto": "La sostenibilidad de un proyecto tiene tres dimensiones: ambiental, social y económica. Se asegura con la participación de los actores locales, la apropiación de la comunidad y un modelo económico que cubra los costos de operación. La perspectiva de género y la equidad se integran desde el diseño para evitar excluir a grupos vulnerables."
+  }
+]
