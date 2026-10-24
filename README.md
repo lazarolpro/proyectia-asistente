@@ -24,8 +24,17 @@ correcta, **citando de dónde sale**, y funciona 100 % offline.
 - Compone una **respuesta extractiva** citando las fuentes y su puntuación.
 - Funciona sin conexión y sin tokens de pago.
 
+## Demo visual
+
+![Recuperación de fuentes por consulta (RAG)](assets/asistente_demo.gif)
+
+La animación muestra, por consulta, las fuentes recuperadas y su similitud. Video
+completo: [`assets/asistente_demo.mp4`](assets/asistente_demo.mp4).
+
 ## Evidencia que produce
 
+- `assets/asistente_demo.mp4`, `asistente_demo.gif`, `asistente_demo_poster.png` —
+  demo visual animado (con miniatura).
 - [`assets/muestra_asistente.pdf`](assets/muestra_asistente.pdf) — muestra resumida
   con consultas, respuestas y fuentes (con marca de agua).
 - [`data/documentos.json`](data/documentos.json) — base de conocimiento de entrada.
